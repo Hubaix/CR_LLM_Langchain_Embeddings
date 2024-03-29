@@ -1,4 +1,4 @@
-API_KEY = "placeholder"
+API_KEY = "API Key"
 
 # from langchain.llms import GooglePalm
 # from langchain.document_loaders.csv_loader import CSVLoader
